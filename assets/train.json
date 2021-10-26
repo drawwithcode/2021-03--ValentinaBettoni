@@ -1,0 +1,94 @@
+{
+  "number": 8,
+
+  "treni": [
+    {
+      "stazionepartenza": "Milano",
+      "destinazione": "Bergamo",
+      "orariopartenza": "8:30",
+      "orarioarrivo": "10:00",
+      "treno": 2247,
+      "binario": 11,
+      "ritardo": "0 min",
+      "cambi": 0,
+      "categoria": "regionale"
+    },
+    {
+      "stazionepartenza": "Milano",
+      "destinazione": "Bologna Centrale",
+      "orariopartenza": "5:00",
+      "orarioarrivo": "7:16",
+      "treno": 583,
+      "binario": 15,
+      "ritardo": "30 min",
+      "cambi": 0,
+      "categoria": "intercity"
+    },
+    {
+      "stazionepartenza": "Milano",
+      "destinazione": "Napoli Centrale",
+      "orariopartenza": "16:10",
+      "orarioarrivo": "21:13",
+      "treno": 9551,
+      "binario": 8,
+      "ritardo": "11 min",
+      "cambi": 0,
+      "categoria": "frecciarossa"
+    },
+    {
+      "stazionepartenza": "Milano",
+      "destinazione": "Roma Trastevere",
+      "orariopartenza": "14:48",
+      "orarioarrivo": "21:65",
+      "treno": 2,
+      "binario": 4,
+      "ritardo": "4 min",
+      "cambi": 1,
+      "categoria": "intercity/regionale"
+    },
+    {
+      "stazionepartenza": "Milano",
+      "destinazione": "Lamezia Terme",
+      "orariopartenza": "12:05",
+      "orarioarrivo": "20:21",
+      "treno": 743,
+      "binario": 11,
+      "ritardo": "27 min",
+      "cambi": 2,
+      "categoria": "frecciarossa/frecciargento"
+    },
+    {
+      "stazionepartenza": "Milano",
+      "destinazione": "Firenze S.M. Novella",
+      "orariopartenza": "5:45",
+      "orarioarrivo": "8:50",
+      "treno": 1043,
+      "binario": 2,
+      "ritardo": "0 min",
+      "cambi": 0,
+      "categoria": "frecciarossa"
+    },
+    {
+      "stazionepartenza": "Milano",
+      "destinazione": "Genova Cornigliano",
+      "orariopartenza": "9:40",
+      "orarioarrivo": "14:20",
+      "treno": 3256,
+      "binario": 13,
+      "ritardo": "11 min",
+      "cambi": 3,
+      "categoria": "frecciarossa/regionale"
+    },
+    {
+      "stazionepartenza": "Milano",
+      "destinazione": "Trento S.Chiara",
+      "orariopartenza": "16:10",
+      "orarioarrivo": "21:13",
+      "treno": 91,
+      "binario": 11,
+      "ritardo": "0 min",
+      "cambi": 0,
+      "categoria": "intercity"
+    }
+  ]
+}
